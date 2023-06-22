@@ -22,6 +22,7 @@ resume-url: https://google.com/?q=my+resume
 
 url: https://junseonhong.github.io
 # your url: https://USERNAME.github.io
+baseurl: ""
 
 permalink: /:title/
 
