@@ -3,7 +3,8 @@
 # -----------------------------------------------------------------------------
 
 exclude:
-  - UPGRADING.pt-br.md
+  - UPGRADING*.md
+  - UPGRADING/
   
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
