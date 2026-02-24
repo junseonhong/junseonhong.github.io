@@ -2,9 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-exclude:
-  - UPGRADING*.md
-  - UPGRADING/
   
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
@@ -209,6 +206,7 @@ exclude:
   - README.pt-br.md
   - readme_preview/
   - UPGRADING.md
+  - UPGRADING.pt-br.md
   - vendor
 keep_files:
   - CNAME
